@@ -1,2 +1,2 @@
-# jstutorial
-tutorial for javascript
+# javascript tutorial
+readme coming soon
